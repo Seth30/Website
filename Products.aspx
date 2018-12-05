@@ -44,7 +44,7 @@
             <ul>
                 <li><a href="HomePage.aspx">Home</a></li>
                 <li><a href="Productlist.html" class="current">Product List</a></li>
-                <li><a href="Personal.html">Personal</a></li>
+                <li><a href="aboutme.aspx">Personal</a></li>
                 <li><a href="Buy.aspx">Purchase</a></li>
             </ul>
         </nav>

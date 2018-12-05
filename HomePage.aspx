@@ -22,7 +22,7 @@
             <ul>
                 <li><a href="HomePage.aspx" class="current">Home</a></li>
                 <li><a href="Products.aspx">Product List</a></li>
-                <li><a href="Personal.html">Personal</a></li>
+                <li><a href="aboutme.aspx">Personal</a></li>
                 <li><a href="Buy.aspx">Purchase</a></li>
             </ul>
         </nav>
